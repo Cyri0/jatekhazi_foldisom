@@ -1,0 +1,11 @@
+body
+
+{
+    background: url(haziko.jpg);
+    color: lime;
+    background-attachment: fixed;
+    background-size: 90%;
+    background-position: center;
+    text-align: center;
+
+}

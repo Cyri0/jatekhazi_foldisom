@@ -1,0 +1,11 @@
+body
+
+{
+    background: url(vereslumen.png);
+    color: lime;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+
+}

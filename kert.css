@@ -1,0 +1,11 @@
+body
+
+{
+    background: url(malna.png);
+    color: lime;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+
+}
